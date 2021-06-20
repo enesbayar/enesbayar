@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **e.bayar_03@hotmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/enesbayar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enesbayar" height="30" width="40" /></a>
 <a href="https://discord.gg/2409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2409" height="30" width="40" /></a>
