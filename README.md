@@ -1,11 +1,10 @@
 <h1 align="center">Hi, I am Enes</h1>
 <h3 align="center">I am computer engineering student from Turkey</h3>
 
-- 🔭 I am currently working on [Gonder - Consumer APP](https://play.google.com/store/apps/details?id=com.gonder.consumer)
 
 - 👨‍💻 All of my projects are available at _coming soon_
 
-- 📫 How to reach me **e.bayar_03@hotmail.com**
+- 📫 How to reach me **enes-bayar@outlook.com**
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
